@@ -1,3 +1,3 @@
 # AutoCAD Resources
 
-![RoadMap][roadmaps\autocad roadmap.jpg]
+![RoadMap][https://github.com/ieee-vbit-sb/resources/blob/master/roadmaps/autocad%20roadmap.jpg]
