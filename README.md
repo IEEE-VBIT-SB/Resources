@@ -1,11 +1,11 @@
 # Resources
 
-[AutoCAD](Auto CAD)
+[AutoCAD](AutoCAD)
 [Entrepreneurship](Entrepreneurship)
-[Ethical Hacking](Ethical Hacking)
+[Ethical Hacking](EthicalHacking)
 [Flutter](Flutter)
-[Graphic Designing](Graphic Designing)
-[PS & Machines](PS & Machines)
-[Python - DSA](Python - DSA)
-[Video Editing](Video Editing)
-[Web Development](Web Development)
+[Graphic Designing](GraphicDesigning)
+[PS & Machines](PS_Machines)
+[Python - DSA](Python-DSA)
+[Video Editing](VideoEditing)
+[Web Development](WebDevelopment)
