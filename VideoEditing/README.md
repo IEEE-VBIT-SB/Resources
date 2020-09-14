@@ -1,3 +1,3 @@
 # Video Editing Resources
 
-![RoadMap][https://github.com/ieee-vbit-sb/resources/blob/master/roadmaps/video%20editing%20roadmap.jpg]
+![RoadMap](https://github.com/IEEE-VBIT-SB/Resources/blob/master/roadmaps/Video%20Editing%20Roadmap.jpg?raw=true)
