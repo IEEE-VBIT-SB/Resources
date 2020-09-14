@@ -1,3 +1,3 @@
 # Graphic Designing Resources
 
-![RoadMap][https://github.com/ieee-vbit-sb/resources/blob/master/roadmaps/graphic%20designing%20roadmap.jpg]
+![RoadMap](https://github.com/IEEE-VBIT-SB/Resources/blob/master/roadmaps/Graphic%20Designing%20roadmap.jpg?raw=true)
