@@ -14,6 +14,8 @@
 
 [Python - DSA](Python-DSA)
 
+[UI Designing](UI_Designing)
+
 [Video Editing](VideoEditing)
 
 [Web Development](WebDevelopment)
